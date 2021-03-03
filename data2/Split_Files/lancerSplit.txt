@@ -1,9 +1,0 @@
-cd 
-
-python test_train_split.py --datadir="Z:\TRAVAIL_CABINET\PhotoInterpretation\DATA" 
---split=0.2 --train_output="Z:\TRAVAIL_CABINET\PhotoInterpretation\split2\train" 
---test_output="Z:\TRAVAIL_CABINET\PhotoInterpretation\split2\test" 
---image_ext='jpg'
-
-
-71142221+Abubakr05@users.noreply.github.com
