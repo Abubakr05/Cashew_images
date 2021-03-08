@@ -1,0 +1,30 @@
+item {
+    name: "Analepse trifasciata",
+    id: 1,
+    display_name: "Analepse trifasciata"
+}
+item {
+    name: "Apate terebrans",
+    id: 2,
+    display_name: "Apate terebrans"
+}
+item {
+    name: "Gommose",
+    id: 3,
+    display_name: "Gommose"
+}
+item {
+    name: "Termites",
+    id: 4,
+    display_name: "Termites"
+}
+item {
+    name: "ploceadorus ferrugineus",
+    id: 5,
+    display_name: "ploceadorus ferrugineus"
+}
+item {
+    name: "Pestalotiose",
+    id: 6,
+    display_name: "Pestalotiose"
+}
