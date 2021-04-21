@@ -1,9 +1,0 @@
-# train and val data
-train: /content/Cashew_images/data2/TRONC/images/train/
-val: /content/Cashew_images/data2/TRONC/images/test/
-
-# number of classes
-nc: 5
-
-# class names
-names: ['Analepse trifasciata','Apate terebrans','Gommose','ploceadorus ferrugineus','Termites']
